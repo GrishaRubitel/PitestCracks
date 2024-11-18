@@ -1,5 +1,22 @@
 # PitestCracker
 
+About
+This repository presents experiments with Pitest source code.
+
+The project is completed during the preparation of Daniil Vinichenko work under Testing of software at SPbPU Institute of Computer Science and Cybersecurity (SPbPU ICSC).
+
+Authors and contributors
+The main contributor Daniil Vinichenko student of SPbPU ICSC.
+The advisor and contributor Vladimir A. Parkhomenko Seniour Lecturer of SPbPU ICSC. 
+
+Warranty
+The contributors give no warranty for the using of the software.
+
+License
+This program is open to use anywhere and is licensed under the GNU General Public License v3.0.
+
+---
+
 Рядом с файлом, ну или в комплекте к файлу, идёт два архива - **PitestCrackLastTry** и **PyParserImplement**. Пойдём по порядку
 
 ---
