@@ -16,6 +16,8 @@ License
 This program is open to use anywhere and is licensed under the GNU General Public License v3.0.
 
 ---
+---
+---
 
 Рядом с файлом, ну или в комплекте к файлу, идёт два архива - **PitestCrackLastTry** и **PyParserImplement**. Пойдём по порядку
 
